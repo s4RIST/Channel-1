@@ -1,0 +1,1 @@
+django intro, start from 28 slide
